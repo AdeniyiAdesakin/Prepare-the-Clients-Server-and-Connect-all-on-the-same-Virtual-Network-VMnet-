@@ -34,13 +34,13 @@
 <p>1. To change the name of Windows 11 VM, go to file explorer, right click on “This PC” and click on properties. </p>
 <p align="center"><img src="https://i.imgur.com/gqBOSsv.png" alt="image"/>
 
-<p>2. On the system’s setting screen, click on Advanced system settings</p>
+<p>2. On the system’s settings screen, click on Advanced system settings</p>
 <p align="center"><img src="https://i.imgur.com/ppNZtEG.png" alt="image"/>
 
 <p>3. On the system’s properties’ screen, in the computer name tab, click change.</p>
 <p align="center"><img src="https://i.imgur.com/VNTFoN8.png" alt="image"/>
 
-<p>4. In the computer name/domain changes' page, input the desired name in the space provided for computer name an d click OK to save.</p>
+<p>4. In the computer name/domain changes' page, input the desired name in the space provided for computer name and click OK to save.</p>
 <p align="center"><img src="https://i.imgur.com/XaZvK25.png" alt="image"/>
   
 <p>5. To change the IP address of the windows 11 VM, right click on start and click on settings </p>
