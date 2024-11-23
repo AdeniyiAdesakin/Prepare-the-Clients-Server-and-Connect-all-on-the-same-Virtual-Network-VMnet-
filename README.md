@@ -8,7 +8,7 @@
 
 <p>2. On the System’s properties’ page, click the Change button. On the computer name/domain changes screen, input the VM’s name and click OK to save.</p>
 <p align="center"><img src="https://i.imgur.com/inliumE.png" height="50%" width="50%" alt="image"/>
-<p align="center"><img src="https://i.imgur.com/GDp5x2q.png"height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://i.imgur.com/GDp5x2q.png" height="50%" width="50%" alt="image"/>
 
 <p>3. To change the IP address of Windows Server 2019, click on the Network Internet icon on your computer’s home screen and then Network and Internet Settings</p>
 <p align="center"><img src="https://i.imgur.com/u5ncidD.png" height="50%" width="50%" alt="image"/>
