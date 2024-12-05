@@ -1,4 +1,4 @@
-<h1>Prepare the Clients/Server and Connect all on the same Virtual Network(VMnet)</h1>
+<h1>Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)</h1>
 <p>This tutorial outlines the preparation of the client and server VMs which includes computer name change, IP address/DNS server address configuration.<br /></p>
 
 <h2>*Change the Name and IP Addresses of the VMs - Windows Server 2019</h2>
