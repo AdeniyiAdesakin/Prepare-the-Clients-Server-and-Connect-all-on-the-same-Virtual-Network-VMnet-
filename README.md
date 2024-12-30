@@ -30,7 +30,7 @@
 <br>
 <br>
 
-<h2>*Change the Name and IP Addresses of the VMs - Windows 11</h2>
+<h2>*Changing the Name and IP Addresses of the VMs - Windows 11</h2>
 <p>1. To change the name of Windows 11 VM, go to file explorer, right click on “This PC” and click on properties. </p>
 <p align="center"><img src="https://i.imgur.com/gqBOSsv.png" height="50%" width="50%" alt="image"/>
 
@@ -58,7 +58,7 @@
 <br>
 <br>
 
-<h1>Connect all VMs to the same virtual Network VMware Workstation Pro</h1>
+<h1>Connecting all VMs to the same virtual Network VMware Workstation Pro</h1>
 <p>This tutorial outlines how to connect all VMs on the same virtual network for communication.<br /></p>
 
 <P>1. To connect all VMs to the same network, right click on the VM and go to settings</P>
