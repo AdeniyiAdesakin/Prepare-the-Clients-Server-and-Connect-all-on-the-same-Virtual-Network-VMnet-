@@ -1,7 +1,7 @@
 <h1>Preparing the Clients/Server and Connecting all on the same Virtual Network(VMnet)</h1>
 <p>This tutorial outlines the preparation of the client and server VMs which includes computer name change, IP address/DNS server address configuration.<br /></p>
 
-<h2>*Change the Name and IP Addresses of the VMs - Windows Server 2019</h2>
+<h2>*Changing the Name and IP Addresses of the VMs - Windows Server 2019</h2>
 <p>1. To change the name of Windows Server 2019 VM, go to file exporer, right click on “This PC” and go to properties. In the ‘Computer name, domain and workgroup settings” window, click on “change settings”</p>
 <p align="center"><img src="https://i.imgur.com/aiRdD2p.png" height="50%" width="50%" alt="image"/>
 <p align="center"><img src="https://i.imgur.com/xiciKuj.png" height="50%" width="50%" alt="image"/>
